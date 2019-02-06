@@ -3,7 +3,9 @@ body {
 }
 
 h1 {
-	font: Arial;
+	font-family: Arial, Helvetica, sans-serif;
+	
+	font-size: 20 px; 
 	
 	color: #252D33;
 	
@@ -11,7 +13,9 @@ h1 {
 }
 
 p	{
-	font: Arial;
+	font-family: Arial, Helvetica, sans-serif;
+	
+	font-size: 10 px;
 	
 	color: #252D33;
 	
