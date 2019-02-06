@@ -1,11 +1,19 @@
 body {
-  background-color: F6F6F6;
+  background-color: #F6F6F6;
 }
 
 h1 {
-	font-family: Arial;
+	font: Arial;
 	
-	color: 252D33;
+	color: #252D33;
 	
 	margin-left: 20px;
+}
+
+p	{
+	font: Arial;
+	
+	color: #252D33;
+	
+
 }
